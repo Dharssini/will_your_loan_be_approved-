@@ -200,7 +200,7 @@ text-align: center;
 
 </style>
 <div class="footer">
-<p>&copy; 2023 <a href="https://www.linkedin.com/in/dharssini-karthikeyan/"> Ali Abdallah</a></p>
+<p>&copy; 2023 <a href="https://www.linkedin.com/in/dharssini-karthikeyan/"></a></p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
