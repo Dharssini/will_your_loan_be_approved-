@@ -70,6 +70,7 @@ loaded_model_RF = joblib.load(open("loan_predition_model_RF", 'rb'))
 
 
 st.title('Loan Prediction System - Data Mining Project')
+st.caption('Dharssini and Prasannapathi')
 animation_header = load_lottie("https://assets6.lottiefiles.com/packages/lf20_azmc2roh.json")
 animation_header2 = load_lottie("https://assets4.lottiefiles.com/packages/lf20_1wnliqn0.json")
 
