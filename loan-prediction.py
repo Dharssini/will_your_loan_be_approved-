@@ -65,7 +65,7 @@ def prepare_input_data_for_model(Gender, Married, Dependents, Education, Self_Em
     return sample
 
 
-loaded_model_LR = joblib.load(open("loan_predition_model.pkl_LR", 'rb'))
+loaded_model_LR = joblib.load(open("loan_predition_model_LR.pkl", 'rb'))
 loaded_model_RF = joblib.load(open("loan_predition_model_RF", 'rb'))
 
 
